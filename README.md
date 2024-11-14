@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbilalsardar" alt="mbilalsardar" /></a> </p>
 
-- 🔭 I’m currently working on a personal AI product [edina](http://edina.ai/)
-
 - 🌱 I’m currently learning **Laravel, Livewire, Pytorch,**
 
 - 💬 Ask me about **PHP, Moodle, Laravel, Machine Learning**
